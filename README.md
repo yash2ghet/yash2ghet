@@ -32,7 +32,5 @@ Aspiring MERN Stack Developer and third-year Computer Science and Design student
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" /></a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=framer" alt="framer" /></a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=canva" alt="canva" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" /></a>
 </p>
